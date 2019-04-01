@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  env: filiptepper/env@0.1.0
+  env: filiptepper/env@dev:initial
 
 workflows:
   version: 2
